@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
 1. Go to https://platform.openai.com
 2. Sign in to your OpenAI account.
-3. Click **Dashboard**.
+3. Click **Dashboard*.
 4. Navigate to **API Keys**.
 5. Click **Create new secret key**.
 6. Copy the generated API key.
