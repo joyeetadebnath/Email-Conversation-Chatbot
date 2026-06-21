@@ -70,3 +70,14 @@ Place it in project root.
 # Step 5: Install Requirements
 ```bash
 pip install -r requirements.txt
+
+---
+# Step 5: Create you open API key
+Go to:openai.com
+Create a new API key.
+
+Step 7: Create .env File
+OPENAI_API_KEY=your_openai_api_key_here
+
+Step 8: Update auth.py
+"Give your secret key"
