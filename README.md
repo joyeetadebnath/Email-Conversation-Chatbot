@@ -71,13 +71,14 @@ Place it in project root.
 ```bash
 pip install -r requirements.txt
 
----
-# Step 5: Create you open API key
-Go to:openai.com
-Create a new API key.
 
-Step 7: Create .env File
-OPENAI_API_KEY=your_openai_api_key_here
 
-Step 8: Update auth.py
-"Give your secret key"
+## Step 5: Create Your OpenAI API Key
+
+1. Go to https://platform.openai.com
+2. Sign in to your OpenAI account.
+3. Click **Dashboard**.
+4. Navigate to **API Keys**.
+5. Click **Create new secret key**.
+6. Copy the generated API key.
+7. Store it securely because it will not be shown again.
