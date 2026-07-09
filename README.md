@@ -72,8 +72,8 @@ Place it in project root.
 pip install -r requirements.txt
 
 
-
-## Step 5: Create Your OpenAI API Key
+```
+## Step 6: Create Your OpenAI API Key
 
 1. Go to https://platform.openai.com
 2. Sign in to your OpenAI account.
